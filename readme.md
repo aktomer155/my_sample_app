@@ -1,2 +1,2 @@
-#My App
+#MyApp
 First Sample App
